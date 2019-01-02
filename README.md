@@ -1,3 +1,2 @@
 # HelloWorld
-just hello world
-bravo
+just bravo hello world
